@@ -6,6 +6,7 @@ Set the app label to nginx_app, and name the container as nginx-container.
 
 Note: The kubectl utility on the jump-host has been configured to work with the Kubernetes cluster.
 
+
 # Below is the manifest file to deploy pod in kubernetes cluster
 
 apiVersion: v1
